@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+ I am a sophmore attending UCF pursuing a Mechanical Engineering Degree
+ 🌱 I’m currently learning about C coding language through the intro to C course
 <!--
 **SavantRod/SavantRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
